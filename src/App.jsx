@@ -91,7 +91,6 @@ const App = () => {
           width: "100%",
         }}
       >
-       C:\Program Files\Git\bin */{"}"}
         {(role || isRegister) && (
           <button
             style={{
